@@ -45,5 +45,4 @@ python -m pytest -q
 ## Results and limitations
 
 - Baseline finds the right file in 4/4 scenarios. This is a tiny, easy benchmark (small app, descriptive file names), so treat it as a sanity check, not evidence of general accuracy.
-- The Claude agent is tested with a scripted fake client only. It has **not** been run against the live API or measured.
 - Triage notes are hypotheses to verify, not diagnoses. The agent only sees the files, logs and changes it is given.
