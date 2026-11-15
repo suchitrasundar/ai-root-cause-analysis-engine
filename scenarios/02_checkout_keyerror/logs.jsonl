@@ -1,0 +1,2 @@
+{"ts":"2026-11-11T14:30:00Z","level":"ERROR","service":"checkout","message":"KeyError: ISBN-0042 in inventory.reserve"}
+{"ts":"2026-11-11T14:31:00Z","level":"ERROR","service":"checkout","message":"KeyError: ISBN-0107 in inventory.reserve"}

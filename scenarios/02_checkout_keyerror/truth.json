@@ -1,0 +1,1 @@
+{"root_cause_file": "inventory.py", "summary": "load_stock stores lowercase keys but normalize_sku uppercases for lookups"}

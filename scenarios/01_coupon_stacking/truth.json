@@ -1,0 +1,1 @@
+{"root_cause_file": "coupons.py", "summary": "apply_coupons subtracts every percent coupon; policy allows only the best one"}

@@ -1,0 +1,1 @@
+[{"id": "c55d1e8", "ts": "2026-11-09T12:00:00Z", "author": "dev1", "title": "Change default page size to 10", "files": ["catalog.py"]}, {"id": "e8a40b3", "ts": "2026-11-11T08:00:00Z", "author": "dev3", "title": "Add cover images to catalog cards", "files": ["templates/card.html"]}]

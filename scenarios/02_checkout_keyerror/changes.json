@@ -1,0 +1,4 @@
+[
+  {"id": "b71c9d0", "ts": "2026-11-11T14:00:00Z", "author": "dev2", "title": "Normalize SKUs to uppercase for lookups", "files": ["inventory.py"]},
+  {"id": "04ee1f2", "ts": "2026-11-11T10:00:00Z", "author": "dev1", "title": "Update README", "files": ["README.md"]}
+]

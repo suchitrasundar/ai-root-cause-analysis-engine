@@ -1,0 +1,5 @@
+[
+  {"id": "f10a3c1", "ts": "2026-11-11T09:00:00Z", "author": "dev1", "title": "Add WELCOME15 promotional coupon", "files": ["promotions/welcome.yml"]},
+  {"id": "9d2b7e4", "ts": "2026-11-11T16:30:00Z", "author": "dev2", "title": "Refactor coupon loop to support fixed-amount coupons", "files": ["coupons.py"]},
+  {"id": "3c8e0aa", "ts": "2026-11-10T11:00:00Z", "author": "dev3", "title": "Update checkout copy", "files": ["templates/checkout.html"]}
+]
