@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a1c9e02",
+    "ts": "2026-11-09T19:00:00Z",
+    "author": "dev1",
+    "title": "Update README with onboarding steps",
+    "files": [
+      "README.md"
+    ]
+  },
+  {
+    "id": "7be4f10",
+    "ts": "2026-11-10T11:00:00Z",
+    "author": "dev2",
+    "title": "Refresh email templates",
+    "files": [
+      "email-service/templates/welcome.html"
+    ]
+  },
+  {
+    "id": "d93b5a7",
+    "ts": "2026-11-10T13:35:00Z",
+    "author": "dev3",
+    "title": "Reduce database connection pool size from 50 to 5 to save cost",
+    "files": [
+      "checkout-service/config/database.yml"
+    ]
+  }
+]

@@ -1,0 +1,280 @@
+{"ts": "2026-11-10T12:00:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1000 processed in 100 ms"}
+{"ts": "2026-11-10T12:00:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 971"}
+{"ts": "2026-11-10T12:01:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1001 processed in 89 ms"}
+{"ts": "2026-11-10T12:02:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1002 processed in 105 ms"}
+{"ts": "2026-11-10T12:03:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1003 processed in 121 ms"}
+{"ts": "2026-11-10T12:04:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1004 processed in 83 ms"}
+{"ts": "2026-11-10T12:05:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1005 processed in 84 ms"}
+{"ts": "2026-11-10T12:06:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1006 processed in 132 ms"}
+{"ts": "2026-11-10T12:07:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1007 processed in 114 ms"}
+{"ts": "2026-11-10T12:08:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1008 processed in 86 ms"}
+{"ts": "2026-11-10T12:09:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1009 processed in 103 ms"}
+{"ts": "2026-11-10T12:10:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1010 processed in 117 ms"}
+{"ts": "2026-11-10T12:11:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1011 processed in 83 ms"}
+{"ts": "2026-11-10T12:12:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1012 processed in 138 ms"}
+{"ts": "2026-11-10T12:13:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1013 processed in 112 ms"}
+{"ts": "2026-11-10T12:14:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1014 processed in 93 ms"}
+{"ts": "2026-11-10T12:15:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1015 processed in 82 ms"}
+{"ts": "2026-11-10T12:16:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1016 processed in 85 ms"}
+{"ts": "2026-11-10T12:17:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1017 processed in 107 ms"}
+{"ts": "2026-11-10T12:18:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1018 processed in 106 ms"}
+{"ts": "2026-11-10T12:19:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1019 processed in 84 ms"}
+{"ts": "2026-11-10T12:20:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1020 processed in 95 ms"}
+{"ts": "2026-11-10T12:20:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 93"}
+{"ts": "2026-11-10T12:21:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1021 processed in 115 ms"}
+{"ts": "2026-11-10T12:22:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1022 processed in 107 ms"}
+{"ts": "2026-11-10T12:23:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1023 processed in 83 ms"}
+{"ts": "2026-11-10T12:24:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1024 processed in 132 ms"}
+{"ts": "2026-11-10T12:25:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1025 processed in 116 ms"}
+{"ts": "2026-11-10T12:26:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1026 processed in 87 ms"}
+{"ts": "2026-11-10T12:27:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1027 processed in 140 ms"}
+{"ts": "2026-11-10T12:28:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1028 processed in 94 ms"}
+{"ts": "2026-11-10T12:29:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1029 processed in 120 ms"}
+{"ts": "2026-11-10T12:30:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1030 processed in 120 ms"}
+{"ts": "2026-11-10T12:31:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1031 processed in 117 ms"}
+{"ts": "2026-11-10T12:32:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1032 processed in 140 ms"}
+{"ts": "2026-11-10T12:33:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1033 processed in 83 ms"}
+{"ts": "2026-11-10T12:34:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1034 processed in 116 ms"}
+{"ts": "2026-11-10T12:35:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1035 processed in 117 ms"}
+{"ts": "2026-11-10T12:36:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1036 processed in 105 ms"}
+{"ts": "2026-11-10T12:37:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1037 processed in 83 ms"}
+{"ts": "2026-11-10T12:38:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1038 processed in 94 ms"}
+{"ts": "2026-11-10T12:39:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1039 processed in 82 ms"}
+{"ts": "2026-11-10T12:40:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1040 processed in 115 ms"}
+{"ts": "2026-11-10T12:40:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 880"}
+{"ts": "2026-11-10T12:41:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1041 processed in 88 ms"}
+{"ts": "2026-11-10T12:42:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1042 processed in 98 ms"}
+{"ts": "2026-11-10T12:43:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1043 processed in 106 ms"}
+{"ts": "2026-11-10T12:44:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1044 processed in 89 ms"}
+{"ts": "2026-11-10T12:45:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1045 processed in 114 ms"}
+{"ts": "2026-11-10T12:46:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1046 processed in 87 ms"}
+{"ts": "2026-11-10T12:47:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1047 processed in 116 ms"}
+{"ts": "2026-11-10T12:48:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1048 processed in 99 ms"}
+{"ts": "2026-11-10T12:49:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1049 processed in 115 ms"}
+{"ts": "2026-11-10T12:50:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1050 processed in 132 ms"}
+{"ts": "2026-11-10T12:51:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1051 processed in 123 ms"}
+{"ts": "2026-11-10T12:52:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1052 processed in 91 ms"}
+{"ts": "2026-11-10T12:53:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1053 processed in 86 ms"}
+{"ts": "2026-11-10T12:54:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1054 processed in 117 ms"}
+{"ts": "2026-11-10T12:55:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1055 processed in 116 ms"}
+{"ts": "2026-11-10T12:56:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1056 processed in 120 ms"}
+{"ts": "2026-11-10T12:57:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1057 processed in 92 ms"}
+{"ts": "2026-11-10T12:58:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1058 processed in 103 ms"}
+{"ts": "2026-11-10T12:59:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1059 processed in 86 ms"}
+{"ts": "2026-11-10T13:00:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1060 processed in 115 ms"}
+{"ts": "2026-11-10T13:00:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 730"}
+{"ts": "2026-11-10T13:01:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1061 processed in 84 ms"}
+{"ts": "2026-11-10T13:02:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1062 processed in 116 ms"}
+{"ts": "2026-11-10T13:03:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1063 processed in 83 ms"}
+{"ts": "2026-11-10T13:04:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1064 processed in 119 ms"}
+{"ts": "2026-11-10T13:05:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1065 processed in 93 ms"}
+{"ts": "2026-11-10T13:06:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1066 processed in 111 ms"}
+{"ts": "2026-11-10T13:07:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1067 processed in 123 ms"}
+{"ts": "2026-11-10T13:08:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1068 processed in 114 ms"}
+{"ts": "2026-11-10T13:09:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1069 processed in 107 ms"}
+{"ts": "2026-11-10T13:10:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1070 processed in 129 ms"}
+{"ts": "2026-11-10T13:11:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1071 processed in 100 ms"}
+{"ts": "2026-11-10T13:12:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1072 processed in 109 ms"}
+{"ts": "2026-11-10T13:13:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1073 processed in 117 ms"}
+{"ts": "2026-11-10T13:14:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1074 processed in 139 ms"}
+{"ts": "2026-11-10T13:15:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1075 processed in 109 ms"}
+{"ts": "2026-11-10T13:16:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1076 processed in 103 ms"}
+{"ts": "2026-11-10T13:17:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1077 processed in 99 ms"}
+{"ts": "2026-11-10T13:18:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1078 processed in 95 ms"}
+{"ts": "2026-11-10T13:19:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1079 processed in 130 ms"}
+{"ts": "2026-11-10T13:20:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1080 processed in 91 ms"}
+{"ts": "2026-11-10T13:20:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 716"}
+{"ts": "2026-11-10T13:21:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1081 processed in 129 ms"}
+{"ts": "2026-11-10T13:22:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1082 processed in 95 ms"}
+{"ts": "2026-11-10T13:23:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1083 processed in 85 ms"}
+{"ts": "2026-11-10T13:24:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1084 processed in 116 ms"}
+{"ts": "2026-11-10T13:25:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1085 processed in 99 ms"}
+{"ts": "2026-11-10T13:26:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1086 processed in 113 ms"}
+{"ts": "2026-11-10T13:27:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1087 processed in 111 ms"}
+{"ts": "2026-11-10T13:28:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1088 processed in 136 ms"}
+{"ts": "2026-11-10T13:29:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1089 processed in 101 ms"}
+{"ts": "2026-11-10T13:30:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1090 processed in 126 ms"}
+{"ts": "2026-11-10T13:31:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1091 processed in 108 ms"}
+{"ts": "2026-11-10T13:32:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1092 processed in 98 ms"}
+{"ts": "2026-11-10T13:33:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1093 processed in 118 ms"}
+{"ts": "2026-11-10T13:34:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1094 processed in 84 ms"}
+{"ts": "2026-11-10T13:35:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1095 processed in 87 ms"}
+{"ts": "2026-11-10T13:36:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1096 processed in 112 ms"}
+{"ts": "2026-11-10T13:37:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1097 processed in 106 ms"}
+{"ts": "2026-11-10T13:38:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1098 processed in 90 ms"}
+{"ts": "2026-11-10T13:39:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1099 processed in 128 ms"}
+{"ts": "2026-11-10T13:40:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1100 processed in 101 ms"}
+{"ts": "2026-11-10T13:40:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 156"}
+{"ts": "2026-11-10T13:41:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1101 processed in 139 ms"}
+{"ts": "2026-11-10T13:42:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1102 processed in 111 ms"}
+{"ts": "2026-11-10T13:43:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1103 processed in 106 ms"}
+{"ts": "2026-11-10T13:44:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1104 processed in 82 ms"}
+{"ts": "2026-11-10T13:45:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1105 processed in 122 ms"}
+{"ts": "2026-11-10T13:46:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1106 processed in 84 ms"}
+{"ts": "2026-11-10T13:47:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1107 processed in 128 ms"}
+{"ts": "2026-11-10T13:48:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1108 processed in 115 ms"}
+{"ts": "2026-11-10T13:49:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1109 processed in 116 ms"}
+{"ts": "2026-11-10T13:50:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1110 processed in 130 ms"}
+{"ts": "2026-11-10T13:51:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1111 processed in 136 ms"}
+{"ts": "2026-11-10T13:52:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1112 processed in 132 ms"}
+{"ts": "2026-11-10T13:53:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1113 processed in 100 ms"}
+{"ts": "2026-11-10T13:54:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1114 processed in 101 ms"}
+{"ts": "2026-11-10T13:55:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1115 processed in 124 ms"}
+{"ts": "2026-11-10T13:56:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1116 processed in 102 ms"}
+{"ts": "2026-11-10T13:57:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1117 processed in 118 ms"}
+{"ts": "2026-11-10T13:58:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1118 processed in 111 ms"}
+{"ts": "2026-11-10T13:59:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1119 processed in 117 ms"}
+{"ts": "2026-11-10T14:00:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1120 processed in 131 ms"}
+{"ts": "2026-11-10T14:00:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 468"}
+{"ts": "2026-11-10T14:00:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 787"}
+{"ts": "2026-11-10T14:00:03Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:00:07Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:00:13Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:00:31Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:01:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1121 processed in 84 ms"}
+{"ts": "2026-11-10T14:01:08Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:01:15Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:01:18Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:01:47Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:02:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1122 processed in 133 ms"}
+{"ts": "2026-11-10T14:02:25Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:02:25Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:02:55Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:02:58Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:03:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1123 processed in 85 ms"}
+{"ts": "2026-11-10T14:03:05Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:03:10Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:03:28Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:03:31Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:04:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1124 processed in 140 ms"}
+{"ts": "2026-11-10T14:04:17Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:04:25Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:04:35Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:04:56Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:05:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1125 processed in 97 ms"}
+{"ts": "2026-11-10T14:05:08Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:05:27Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:05:52Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:05:55Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:06:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1126 processed in 110 ms"}
+{"ts": "2026-11-10T14:06:17Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:06:26Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:06:35Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:06:45Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:07:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1127 processed in 124 ms"}
+{"ts": "2026-11-10T14:07:22Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:07:24Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:07:43Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:07:56Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:08:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1128 processed in 122 ms"}
+{"ts": "2026-11-10T14:08:05Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:08:09Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:08:11Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:08:14Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:09:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1129 processed in 84 ms"}
+{"ts": "2026-11-10T14:09:09Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:09:14Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:09:14Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:09:42Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:10:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1130 processed in 83 ms"}
+{"ts": "2026-11-10T14:10:00Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:10:31Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:10:37Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:10:53Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:11:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1131 processed in 126 ms"}
+{"ts": "2026-11-10T14:11:00Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:11:11Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:11:16Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:11:18Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:12:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1132 processed in 124 ms"}
+{"ts": "2026-11-10T14:12:09Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:12:23Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:12:26Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:12:34Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:13:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1133 processed in 99 ms"}
+{"ts": "2026-11-10T14:13:08Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:13:20Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:13:36Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:13:39Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:14:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1134 processed in 121 ms"}
+{"ts": "2026-11-10T14:14:32Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:14:39Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:14:44Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:14:54Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:15:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1135 processed in 116 ms"}
+{"ts": "2026-11-10T14:15:03Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:15:41Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:15:43Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:15:47Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:16:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1136 processed in 123 ms"}
+{"ts": "2026-11-10T14:16:29Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:16:49Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:16:55Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:16:57Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:17:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1137 processed in 132 ms"}
+{"ts": "2026-11-10T14:17:35Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:17:43Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:17:51Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:17:55Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:18:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1138 processed in 108 ms"}
+{"ts": "2026-11-10T14:18:25Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:18:25Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:18:25Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:18:25Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:19:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1139 processed in 98 ms"}
+{"ts": "2026-11-10T14:19:06Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:19:25Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:19:30Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:19:40Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:20:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1140 processed in 125 ms"}
+{"ts": "2026-11-10T14:20:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 396"}
+{"ts": "2026-11-10T14:20:00Z", "level": "WARN", "service": "email-service", "message": "Retrying email send for user 452"}
+{"ts": "2026-11-10T14:20:03Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:20:04Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:20:12Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:20:13Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:21:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1141 processed in 136 ms"}
+{"ts": "2026-11-10T14:21:07Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:21:10Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:21:21Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:21:38Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:22:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1142 processed in 122 ms"}
+{"ts": "2026-11-10T14:22:00Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:22:03Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:22:06Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:22:36Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:23:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1143 processed in 102 ms"}
+{"ts": "2026-11-10T14:23:06Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:23:09Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:23:23Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:23:34Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:24:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1144 processed in 81 ms"}
+{"ts": "2026-11-10T14:24:01Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:24:04Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:24:39Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:24:55Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:25:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1145 processed in 140 ms"}
+{"ts": "2026-11-10T14:25:09Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:25:13Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:25:24Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:25:39Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:26:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1146 processed in 109 ms"}
+{"ts": "2026-11-10T14:26:16Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:26:22Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:26:38Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:26:40Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:27:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1147 processed in 102 ms"}
+{"ts": "2026-11-10T14:27:07Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:27:07Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:27:23Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:27:30Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:28:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1148 processed in 90 ms"}
+{"ts": "2026-11-10T14:28:29Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:28:30Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:28:31Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:28:54Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:29:00Z", "level": "INFO", "service": "checkout-service", "message": "Order 1149 processed in 119 ms"}
+{"ts": "2026-11-10T14:29:05Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:29:09Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:29:19Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
+{"ts": "2026-11-10T14:29:30Z", "level": "ERROR", "service": "checkout-service", "message": "Timeout acquiring connection from pool after 30000 ms (pool size 5, active 5)"}
