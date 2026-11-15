@@ -32,7 +32,7 @@ def test_baseline_hits_every_scenario_with_grounded_evidence():
 def test_traceback_pins_the_deepest_frame():
     bug, tools, _ = load_scenario(ROOT / "scenarios" / "02_checkout_keyerror")
     t = triage_baseline(bug, tools)
-    assert t.evidence[0].file == "inventory.py" and t.evidence[0].start_line == 22
+    assert t.evidence[0].file == "inventory.py" and t.evidence[0].start_line == 23
     assert "reserve" in t.root_cause and t.source == "baseline"
 
 

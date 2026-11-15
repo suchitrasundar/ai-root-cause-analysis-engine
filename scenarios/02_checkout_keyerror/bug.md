@@ -4,9 +4,9 @@ Since yesterday's deploy every checkout attempt fails. Example from the error tr
 
 ```
 Traceback (most recent call last):
-  File "sample_app/cart.py", line 9, in checkout
+  File "sample_app/cart.py", line 10, in checkout
     inventory.reserve(sku, qty)
-  File "sample_app/inventory.py", line 22, in reserve
+  File "sample_app/inventory.py", line 23, in reserve
     if STOCK[key] < qty:
 KeyError: 'ISBN-0042'
 ```
