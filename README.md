@@ -33,6 +33,10 @@ python -m triage.cli --agent --bug scenarios/01_coupon_stacking/bug.md --repo sa
 python -m pytest -q
 ```
 
+## Use it as an agent skill
+
+[`skill/grounded-bug-triage/`](skill/grounded-bug-triage/) packages the same approach as a `SKILL.md` skill for coding agents such as Cursor. The agent investigates the bug in your own repo, writes triage notes as JSON, and runs `scripts/verify_evidence.py` (standard library only) to check every cited line before showing the notes; ungrounded citations cap confidence at "low". Copy the folder into your agent's skills directory and paste in a bug report.
+
 ## Scenarios (planted bugs in `sample_app/`)
 
 | Scenario | Symptom | Cause |
